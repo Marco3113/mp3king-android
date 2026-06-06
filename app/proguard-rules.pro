@@ -1,0 +1,1 @@
+-keep class com.mp3king.app.** { *; }
